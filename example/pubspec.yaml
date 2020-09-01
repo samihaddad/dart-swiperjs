@@ -1,0 +1,13 @@
+name: swiperjs_example
+description: Swiperjs example.
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  swiperjs:
+    path: ../
+
+dev_dependencies:
+  build_runner: ^1.6.0
+  build_web_compilers: ^2.3.0
